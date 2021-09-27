@@ -5,7 +5,7 @@ import Footer from './Footer';
 import Header from './Header';
 import Internships from './Internships';
 import Item from "./Item";
-import Training from './Training';
+
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
